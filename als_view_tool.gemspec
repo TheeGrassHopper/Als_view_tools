@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{This is a gem for adding copy rights methods}
   spec.description   = %q{Has helpful methods to a portfolio site}
-  spec.homepage      = "TBA"
+  # spec.homepage      = "www.alwanmortada.com"
   spec.license       = "ALMOR"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
